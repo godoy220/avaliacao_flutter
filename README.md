@@ -24,7 +24,7 @@ O aplicativo é um sistema simples de controle de leitura desenvolvido em Flutte
 ## Instruções para Executar o Projeto Localmente
 1. Certifique-se de ter o Flutter SDK instalado.
 2. Clone o repositório em sua máquina:
-   `git clone `
+   `git clone https://github.com/godoy220/avaliacao_flutter`
 3. Acesse a pasta do projeto no terminal.
 4. Rode o comando para baixar as dependências:
    `flutter pub get`
